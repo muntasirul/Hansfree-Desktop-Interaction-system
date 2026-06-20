@@ -1,0 +1,4 @@
+# Web Mode dependencies (placeholder)
+# selenium>=4.15.0
+# SpeechRecognition>=3.10.0
+# customtkinter>=5.2.0
